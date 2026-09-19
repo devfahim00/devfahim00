@@ -1,75 +1,148 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7C3AED,100:22D3EE&height=190&section=header&text=fahim%40devfahim00&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=~%24%20mobile%20%C2%B7%20backend%20%C2%B7%20systems&descAlignY=60&descSize=18" width="100%" alt="header" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:3DDC84&height=110&section=header&text=Fahim&fontSize=42&fontColor=ffffff&fontAlignY=55" alt="Fahim" />
-
-**Mobile & backend developer** · building connected systems, end to end.
-
-[![Telegram](https://img.shields.io/badge/Telegram-@droxilen-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/droxilen)
-[![Followers](https://img.shields.io/github/followers/devfahim00?style=flat-square&logo=github&labelColor=0d1117&color=3DDC84)](https://github.com/devfahim00?tab=followers)
-[![Location](https://img.shields.io/badge/Bangladesh-🇧🇩-0d1117?style=flat-square)](https://github.com/devfahim00)
+<a href="https://github.com/devfahim00">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=30&lines=%24+whoami+%E2%86%92+Fahim;%24+stack+%E2%86%92+Flutter+%C2%B7+Kotlin+%C2%B7+Cloudflare+Workers;%24+building+%E2%86%92+apps%2C+APIs%2C+admin+panels%2C+bots" alt="typing" />
+</a>
 
 </div>
 
 <br>
 
-```text
-apps  →  APIs  →  admin panels  →  bots
-Flutter · Kotlin · Cloudflare Workers · PHP
+```bash
+fahim@devfahim00 ~ $ neofetch
+
+  name       Fahim
+  role       Mobile & Backend Developer
+  location   Bangladesh 🇧🇩
+  languages  বাংলা · English
+  builds     streaming · proxies · payments · bots
+  approach   full ecosystems — client, API, admin, automation
+  reach      t.me/droxilen
 ```
 
 <br>
 
-### `stack`
+## `~/stack`
 
+**`lang`** &nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**`mobile`** &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Media3](https://img.shields.io/badge/Media3-4285F4?style=flat-square&logo=google&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%203-757575?style=flat-square&logo=materialdesign&logoColor=white)
+
+**`cloud`** &nbsp;
+![Workers](https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![KV](https://img.shields.io/badge/KV-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![D1](https://img.shields.io/badge/D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+**`tools`** &nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white)
 
 <br>
 
-### `projects`
+## `~/projects`
 
-| | Project | |
-|:--|:--|:--|
-| ⚡ | **[SparkTube](https://github.com/devfahim00/SparkTube)** <br> <sub>Anonymous YouTube client · Kotlin · NewPipeExtractor</sub> | ![](https://img.shields.io/github/stars/devfahim00/SparkTube?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=3DDC84) ![](https://img.shields.io/github/downloads/devfahim00/SparkTube/total?style=flat-square&label=%E2%86%93&labelColor=0d1117&color=3DDC84) |
-| 🎬 | **[AdlessTube](https://github.com/devfahim00/AdlessTube)** <br> <sub>Ad-free YouTube client with offline playback · Flutter</sub> | ![](https://img.shields.io/github/stars/devfahim00/AdlessTube?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=3DDC84) ![](https://img.shields.io/github/downloads/devfahim00/AdlessTube/total?style=flat-square&label=%E2%86%93&labelColor=0d1117&color=3DDC84) |
-| 💳 | **[PayGateApp](https://github.com/devfahim00/PayGateApp)** <br> <sub>bKash payment gateway · Flutter + Cloudflare Workers</sub> | ![](https://img.shields.io/github/stars/devfahim00/PayGateApp?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=3DDC84) |
-| 🦊 | **[Spark](https://github.com/devfahim00/Spark)** <br> <sub>Proxy client based on FlClash · Flutter</sub> | ![](https://img.shields.io/github/stars/devfahim00/Spark?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=3DDC84) |
-| 🧩 | **[DxRepoCS](https://github.com/devfahim00/DxRepoCS)** <br> <sub>CloudStream extension repository · Kotlin</sub> | ![](https://img.shields.io/github/stars/devfahim00/DxRepoCS?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=3DDC84) |
-| 🚀 | **[STD](https://github.com/devfahim00/STD)** <br> <sub>Multi-threaded speed test · Flutter</sub> | ![](https://img.shields.io/github/stars/devfahim00/STD?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=3DDC84) |
-| 🛰 | **[Clash.Meta.Extra](https://github.com/devfahim00/Clash.Meta.Extra)** <br> <sub>Custom Mihomo kernel · Go</sub> | ![](https://img.shields.io/github/stars/devfahim00/Clash.Meta.Extra?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=3DDC84) |
-| ⬇️ | **[SparkDownloader](https://github.com/devfahim00/SparkDownloader)** <br> <sub>yt-dlp downloader for Termux</sub> | ![](https://img.shields.io/github/stars/devfahim00/SparkDownloader?style=flat-square&label=%E2%98%85&labelColor=0d1117&color=3DDC84) |
+<table>
+<tr>
+<td valign="top" width="50%">
+<h4>⚡ <a href="https://github.com/devfahim00/SparkTube">SparkTube</a></h4>
+<sub>Anonymous YouTube client. No account, no tracking, no live streams.</sub><br><br>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/github/stars/devfahim00/SparkTube?style=flat-square&logo=github&labelColor=161b22&color=7C3AED" />
+<img src="https://img.shields.io/github/downloads/devfahim00/SparkTube/total?style=flat-square&label=downloads&labelColor=161b22&color=22D3EE" />
+</td>
+<td valign="top" width="50%">
+<h4>🎬 <a href="https://github.com/devfahim00/AdlessTube">AdlessTube</a></h4>
+<sub>Ad-free YouTube client with downloads and offline playback.</sub><br><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/github/stars/devfahim00/AdlessTube?style=flat-square&logo=github&labelColor=161b22&color=7C3AED" />
+<img src="https://img.shields.io/github/downloads/devfahim00/AdlessTube/total?style=flat-square&label=downloads&labelColor=161b22&color=22D3EE" />
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h4>💳 <a href="https://github.com/devfahim00/PayGateApp">PayGateApp</a></h4>
+<sub>bKash payment gateway: SMS forwarder app + Cloudflare Worker backend.</sub><br><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/github/stars/devfahim00/PayGateApp?style=flat-square&logo=github&labelColor=161b22&color=7C3AED" />
+</td>
+<td valign="top" width="50%">
+<h4>🦊 <a href="https://github.com/devfahim00/Spark">Spark</a></h4>
+<sub>Minimal proxy client built on FlClash, with Telegram auth and referrals.</sub><br><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/github/stars/devfahim00/Spark?style=flat-square&logo=github&labelColor=161b22&color=7C3AED" />
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h4>🧩 <a href="https://github.com/devfahim00/DxRepoCS">DxRepoCS</a></h4>
+<sub>Custom CloudStream extension repository.</sub><br><br>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/github/stars/devfahim00/DxRepoCS?style=flat-square&logo=github&labelColor=161b22&color=7C3AED" />
+</td>
+<td valign="top" width="50%">
+<h4>🚀 <a href="https://github.com/devfahim00/STD">STD</a></h4>
+<sub>Multi-threaded download speed test with a live gauge.</sub><br><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/github/stars/devfahim00/STD?style=flat-square&logo=github&labelColor=161b22&color=7C3AED" />
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<h4>🛰 <a href="https://github.com/devfahim00/Clash.Meta.Extra">Clash.Meta.Extra</a></h4>
+<sub>Custom Mihomo (Clash.Meta) kernel written in Go.</sub><br><br>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/github/stars/devfahim00/Clash.Meta.Extra?style=flat-square&logo=github&labelColor=161b22&color=7C3AED" />
+</td>
+<td valign="top" width="50%">
+<h4>⬇️ <a href="https://github.com/devfahim00/SparkDownloader">SparkDownloader</a></h4>
+<sub>yt-dlp based media downloader that runs on Termux.</sub><br><br>
+<img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/github/stars/devfahim00/SparkDownloader?style=flat-square&logo=github&labelColor=161b22&color=7C3AED" />
+</td>
+</tr>
+</table>
 
 <br>
 
-### `stats`
+## `~/stats`
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=devfahim00&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=3DDC84&icon_color=3DDC84&count_private=true" alt="Stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfahim00&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=3DDC84&langs_count=6" alt="Languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=devfahim00&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=7C3AED&text_color=9ca3af&count_private=true" alt="stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfahim00&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=9ca3af&langs_count=6" alt="languages" />
 
 </div>
 
 <br>
 
-### `contact`
+## `~/contact`
+
+```bash
+fahim@devfahim00 ~ $ contact --telegram @droxilen
+```
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@droxilen-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/droxilen)
-[![GitHub](https://img.shields.io/badge/GitHub-devfahim00-3DDC84?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/devfahim00)
-
-<sub>Made with ❤️ in Bangladesh</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:3DDC84&height=50&section=footer" alt="" />
+[![Telegram](https://img.shields.io/badge/Telegram-@droxilen-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161b22)](https://t.me/droxilen)
+[![GitHub](https://img.shields.io/badge/GitHub-devfahim00-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/devfahim00)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7C3AED,100:22D3EE&height=90&section=footer" width="100%" alt="footer" />
