@@ -121,17 +121,6 @@ fahim@devfahim00 ~ $ neofetch
 
 <br>
 
-## `~/stats`
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=devfahim00&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=7C3AED&text_color=9ca3af&count_private=true" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfahim00&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=9ca3af&langs_count=6" alt="languages" />
-
-</div>
-
-<br>
-
 ## `~/contact`
 
 ```bash
